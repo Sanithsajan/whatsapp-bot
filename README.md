@@ -13,9 +13,9 @@
 <a href="https://github.com/Sanithsajan"><img title="Author" src="https://img.shields.io/badge/AUTHOR-GERTMENAN-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## What is WhatsAsena?
 
-**WhatsAsena,** is a WhatsApp bot writtwrit
+
+
 
 ## Setup
 
